@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/changecolor"
+        android:title="Change Color"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/kolapata"
+                android:title="Kolapata"
+                />
+            <item
+                android:id="@+id/Yellow"
+                android:title="Yellow"
+                />
+            <item
+                android:id="@+id/white1"
+                android:title="White"
+                />
+            <item
+                android:id="@+id/blue"
+                android:title="Blue"
+                />
+        </menu>
+    </item>
+
+
+
+    <item
+        android:title="Save Chat"
+        android:id="@+id/saveButton"/>
+
+
+    <item
+        android:title="Send Text File"
+        android:id="@+id/sendFileButton"/>
+
+
+    <item
+        android:title="share"
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always" />
+
+    <item
+        android:title="Setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always" />
+
+    <item
+        app:showAsAction="never"
+        android:title="Feedback"
+        android:id="@+id/feedback"/>
+
+
+
+
+</menu>

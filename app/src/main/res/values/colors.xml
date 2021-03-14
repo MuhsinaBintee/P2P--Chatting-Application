@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F4F8F8</color>
+    <color name="colorAccent">#E9C70A</color>
+    <color name="colorPrimaryDark">#0EB6A1</color>
+    <color name="Yellow">#EBDC0A</color>
+    <color name="Blue">#0E1380</color>
+    <color name="saya">#7703BB1F</color>
+    <color name="saya1">#119711</color>
+    <color name="kolapata">#00FF00</color>
+    <color name="Komola">#13E446</color>
+    <color name="normalwhite">#eaeaea</color>
+    <color name="white1">#f5f5f5</color>
+</resources>
